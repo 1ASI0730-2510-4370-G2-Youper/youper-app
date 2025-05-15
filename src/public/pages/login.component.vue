@@ -90,7 +90,7 @@ function login() {
 }
 
 function loginWithFacebook() {
-  console.log("Logging in with Facebook...");
+  console.log("Logging in with Facebookk...");
 }
 
 function loginWithGoogle() {
